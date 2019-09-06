@@ -9,7 +9,7 @@ import argparse
 from PIL import Image
 
 
-CELLSIZE = 64
+CELLSIZE = 128
 
 '''图片读取'''
 def readImage(img_path, target_size=(64, 64)):
@@ -50,14 +50,14 @@ def main(pictures_dir, template_path):
 				img, img_idx = yieldImage(pictures_dir, img_idx, (CELLSIZE, CELLSIZE))
 				image_new.paste(img, (x*CELLSIZE, y*CELLSIZE))
 	image_new.show()
-	image_new.save('picturewall.png')
+	image_new.save('picturewall520.png')
 
 
 '''run'''
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description="Picture Wall Generator.")
 	parser.add_argument('-t', dest='template_path', help='Template path.', default='templates/2.tmp')
-	parser.add_argument('-p', dest='pictures_dir', help='Pictures dir.', default='肥肥')
+	parser.add_argument('-p', dest='pictures_dir', help='Pictures dir.', default='parrot')
 	args = parser.parse_args()
 	template_path = args.template_path
 	pictures_dir = args.pictures_dir
