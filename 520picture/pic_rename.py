@@ -31,7 +31,7 @@ class ImageRename():
          
 class ImageRename2():  
     def __init__(self):
-         self.path = '肥肥'   
+         self.path = 'parrot'   
     
     def rename(self):
         for idx, each in enumerate(os.listdir(self.path)):
