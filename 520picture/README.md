@@ -7,6 +7,7 @@
 ![爱心照片墙](https://github.com/librauee/Trick/blob/master/520picture/picturewall.png)
 
 
+![闪电照片墙](https://github.com/librauee/Trick/blob/master/520picture/picturewall2.png)
 # Code
 
 * wallPictures.py 主函数生成图片墙
