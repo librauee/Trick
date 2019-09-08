@@ -1,5 +1,9 @@
 ﻿# Trick
-Some interesting code in life!💖
+* Some interesting code in life!💖
+
+* WeChat Official Accounts: algo_and_data
+
+![Wechat](https://github.com/librauee/Reptile/blob/master/image/vx_code.jpg)
 
 ## No.1 &nbsp;Picture Wall
 
