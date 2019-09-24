@@ -14,10 +14,21 @@
 ![爱心照片墙](https://github.com/librauee/Trick/blob/master/520picture/picturewall.png)
 
 
-## Code
+### Code
 
 * wallPictures.py 主函数生成图片墙
 
 * templates文件夹  包含两个生成图片墙的模板
 
 * pic_rename.py 将图片文件夹的图片重新命名
+
+
+## No.2 &nbsp;National Flag
+
+* 喜迎国庆，给自己的社交账号的头像加上国旗
+
+![国旗](https://github.com/librauee/Trick/blob/master/national_flag_head/new_head.jpg)
+
+### Code
+
+* add_flag.py 
