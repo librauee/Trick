@@ -32,3 +32,11 @@
 ### Code
 
 * add_flag.py 
+
+## No.3 &nbsp;Similarity
+
+* 计算图片相似度的简单方法
+
+
+### Code
+* pic_similarity.py
