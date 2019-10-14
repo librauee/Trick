@@ -40,3 +40,13 @@
 
 ### Code
 * pic_similarity.py
+
+
+## No.4 &nbsp;ID_identify
+
+* 简单的身份证校验
+* [简单介绍](https://mp.weixin.qq.com/s/7L8zcPLcWf0lNZGMZZrw6w)
+
+### Code
+
+* id_identify.py
