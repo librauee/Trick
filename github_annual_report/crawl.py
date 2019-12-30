@@ -97,5 +97,5 @@ class Github(object):
 if __name__=='__main__':
     
     git=Github()
-    #git.get_month()
+    git.get_month()
     git.get_day()
